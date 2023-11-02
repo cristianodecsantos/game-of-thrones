@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 .home{
     background-image: url(imagens/fundo.jpg);
     background-size: 100%;
